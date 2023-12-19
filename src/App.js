@@ -12,4 +12,4 @@ function MyButton({ title }) {
         <MyButton title="Soy un botón" />
       </div>
     );
-  }
+  } 
